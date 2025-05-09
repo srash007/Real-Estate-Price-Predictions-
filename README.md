@@ -12,4 +12,4 @@
 ## Dataset:
 Dataset used: Housing Prices Dataset from Kaggle
 
-The dataset includes features such as house size, number of bedrooms, number of bathrooms, and location.
+The dataset includes features such as price, area,	bedrooms,	bathrooms,stories, mainroad	guestroom,	basement,	hot water heating, air conditioning, parking, if it is the prefer area, furnishing status.
